@@ -1,6 +1,6 @@
 # 🎓 StudyMonster - Hackathon Submission
 
-A fun and motivational Flutter app that turns school assignments into battles with collectible monsters! Built in under 48 hours for JamHacks!!!!!!!!!
+A fun and motivational Flutter app that turns school assignments into battles with collectible monsters! Built in 36 hours for JamHacks!!!!!!!!!
 
 ---
 
